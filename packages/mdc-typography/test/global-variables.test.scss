@@ -1,0 +1,7 @@
+$mdc-typography-font-family: Arial;
+$mdc-typography-styles-headline1: (
+  font-size: 1rem
+);
+
+// Use third_party directory to emulate client import
+@import 'third_party/javascript/material_components_web/typography/mdc-typography';
